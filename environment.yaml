@@ -4,8 +4,8 @@ channels:
   - defaults
 dependencies:
   - ipykernel
-  - scikit-learn=1.2.1
-  - python
+  - scikit-learn
+  - python>=3.10
   - pandas
   - matplotlib.pyplot
-prefix: C:\Users\Awesome\miniconda3\envs\dstoolbox
+  - jupyterlab
